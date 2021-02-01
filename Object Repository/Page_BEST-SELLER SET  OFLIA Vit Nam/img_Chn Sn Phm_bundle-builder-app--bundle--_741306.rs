@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Chn Sn Phm_bundle-builder-app--bundle--_741306</name>
+   <tag></tag>
+   <elementGuidId>e88ee82e-eccf-47bd-bf73-b62971b6b95b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bundle-builder-app--bundle--root']/div/div/div/div/div/ul/li[2]/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bundle-builder-app--bundle--product-image</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>THE PINK SET (Bubble Pop + Cutie Pie)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sizes</name>
+      <type>Main</type>
+      <value>(max-width: 767px) 50vw, 33vw</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>https://cdn.shopify.com/s/files/1/0274/1039/9319/products/SETH_NGD_C_300x.jpg?v=1607254006 300w,https://cdn.shopify.com/s/files/1/0274/1039/9319/products/SETH_NGD_C_600x.jpg?v=1607254006 600w,https://cdn.shopify.com/s/files/1/0274/1039/9319/products/SETH_NGD_C_900x.jpg?v=1607254006 900w,https://cdn.shopify.com/s/files/1/0274/1039/9319/products/SETH_NGD_C_1200x.jpg?v=1607254006 1200w,https://cdn.shopify.com/s/files/1/0274/1039/9319/products/SETH_NGD_C_1500x.jpg?v=1607254006 1500w,https://cdn.shopify.com/s/files/1/0274/1039/9319/products/SETH_NGD_C_1800x.jpg?v=1607254006 1800w,https://cdn.shopify.com/s/files/1/0274/1039/9319/products/SETH_NGD_C_2100x.jpg?v=1607254006 2100w,https://cdn.shopify.com/s/files/1/0274/1039/9319/products/SETH_NGD_C_2400x.jpg?v=1607254006 2400w</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cdn.shopify.com/s/files/1/0274/1039/9319/products/SETH_NGD_C.jpg?v=1607254006</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bundle-builder-app--bundle--root&quot;)/div[1]/div[@class=&quot;bundle-builder-app--bundle--integration--full-width bundle-builder-app--bundle--57708 bundle-builder-app--bundle--multisection bundle-builder-app--bundle--multisection--first&quot;]/div[@class=&quot;bundle-builder-app--content bundle-builder-app--content--add-margin&quot;]/div[@class=&quot;bundle-builder-app--products--block&quot;]/div[@class=&quot;bundle-builder-app--products&quot;]/ul[@class=&quot;bundle-builder-app--bundle--section--product-list--centred&quot;]/li[@class=&quot;bundle-builder-app--bundle--product bundle-builder-app--products-per-row--3--centred&quot;]/div[1]/div[@class=&quot;bundle-builder-app--bundle--product-link&quot;]/img[@class=&quot;bundle-builder-app--bundle--product-image&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bundle-builder-app--bundle--root']/div/div/div/div/div/ul/li[2]/div/div/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='THE PINK SET (Bubble Pop + Cutie Pie)']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div/img</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Quick view_grid-product__image lazyauto_6957de</name>
+   <tag></tag>
+   <elementGuidId>10e8f640-d2fa-46d8-9b0d-72f69beb3473</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='CollectionSection-160723384592a46d96']/div[2]/div/div/div[2]/div/a/div/div[2]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grid-product__image lazyautosizes lazyloaded</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-widths</name>
+      <type>Main</type>
+      <value>[180, 360, 540, 720, 900, 1080]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aspectratio</name>
+      <type>Main</type>
+      <value>0.8</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sizes</name>
+      <type>Main</type>
+      <value>auto</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-srcset</name>
+      <type>Main</type>
+      <value>//cdn.shopify.com/s/files/1/0274/1039/9319/products/bundle_e00854b3-6201-47c7-b192-ff3af08246bb_180x.jpeg?v=1608124820 180w, //cdn.shopify.com/s/files/1/0274/1039/9319/products/bundle_e00854b3-6201-47c7-b192-ff3af08246bb_360x.jpeg?v=1608124820 360w, //cdn.shopify.com/s/files/1/0274/1039/9319/products/bundle_e00854b3-6201-47c7-b192-ff3af08246bb_540x.jpeg?v=1608124820 540w, //cdn.shopify.com/s/files/1/0274/1039/9319/products/bundle_e00854b3-6201-47c7-b192-ff3af08246bb_720x.jpeg?v=1608124820 720w, //cdn.shopify.com/s/files/1/0274/1039/9319/products/bundle_e00854b3-6201-47c7-b192-ff3af08246bb_900x.jpeg?v=1608124820 900w, //cdn.shopify.com/s/files/1/0274/1039/9319/products/bundle_e00854b3-6201-47c7-b192-ff3af08246bb_1080x.jpeg?v=1608124820 1080w</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sizes</name>
+      <type>Main</type>
+      <value>192px</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>//cdn.shopify.com/s/files/1/0274/1039/9319/products/bundle_e00854b3-6201-47c7-b192-ff3af08246bb_180x.jpeg?v=1608124820 180w, //cdn.shopify.com/s/files/1/0274/1039/9319/products/bundle_e00854b3-6201-47c7-b192-ff3af08246bb_360x.jpeg?v=1608124820 360w, //cdn.shopify.com/s/files/1/0274/1039/9319/products/bundle_e00854b3-6201-47c7-b192-ff3af08246bb_540x.jpeg?v=1608124820 540w, //cdn.shopify.com/s/files/1/0274/1039/9319/products/bundle_e00854b3-6201-47c7-b192-ff3af08246bb_720x.jpeg?v=1608124820 720w, //cdn.shopify.com/s/files/1/0274/1039/9319/products/bundle_e00854b3-6201-47c7-b192-ff3af08246bb_900x.jpeg?v=1608124820 900w, //cdn.shopify.com/s/files/1/0274/1039/9319/products/bundle_e00854b3-6201-47c7-b192-ff3af08246bb_1080x.jpeg?v=1608124820 1080w</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CollectionSection-160723384592a46d96&quot;)/div[@class=&quot;page-width page-width--flush-small&quot;]/div[@class=&quot;grid-overflow-wrapper&quot;]/div[@class=&quot;grid grid--uniform aos-init aos-animate&quot;]/div[@class=&quot;grid__item grid-product small--one-half medium-up--one-quarter grid-product__has-quick-shop aos-init aos-animate&quot;]/div[@class=&quot;grid-product__content&quot;]/a[@class=&quot;grid-product__link&quot;]/div[@class=&quot;grid-product__image-mask&quot;]/div[@class=&quot;image-wrap&quot;]/img[@class=&quot;grid-product__image lazyautosizes lazyloaded&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='CollectionSection-160723384592a46d96']/div[2]/div/div/div[2]/div/a/div/div[2]/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/div/div[2]/img</value>
+   </webElementXpaths>
+</WebElementEntity>
